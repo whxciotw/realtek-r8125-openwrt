@@ -22,7 +22,7 @@
 # Author:
 # Realtek NIC software team <nicfae@realtek.com>
 # No. 2, Innovation Road II, Hsinchu Science Park, Hsinchu 300, Taiwan
-#
+# enabled multiple queue and disabled ASPM
 ################################################################################
 
 ################################################################################
